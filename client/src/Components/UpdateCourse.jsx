@@ -81,8 +81,8 @@ export default function UpdateCourse({ client }) {
               <h1>Certificate:</h1>
               <br />
               <img
-                src="https://udemy-certificate.s3.amazonaws.com/image/UC-bbb1e2d3-634b-40aa-8aec-b15466c0b084.jpg?v=1689755353000"
-                alt="cretificate"
+                src="https://support.thecn.com/hc/article_attachments/360060124854/certificate_template.jpg"
+                alt="certificate"
                 style={{ width: "100%" }}
               />
             </Grid>
