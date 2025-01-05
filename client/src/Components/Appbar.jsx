@@ -31,7 +31,7 @@ export default function Appbar({ client }) {
             onClick={() => navigate("/")}
             style={{ cursor: "pointer" }}
           >
-            Harshera
+            CourseCraft
           </Typography>
         </div>
         <div className="navbar-options">
@@ -102,7 +102,7 @@ export default function Appbar({ client }) {
           onClick={() => navigate("/")}
           style={{ cursor: "pointer" }}
         >
-          Harshera
+          CourseCraft
         </Typography>
       </div>
       <div className="navbar-options">

@@ -66,7 +66,7 @@ export default function Home() {
         <Typography variant="subtitle1" style={{ marginTop: "60px" }}>
           Create and sell online courses, build vibrant communities, and
           monetize memberships <br /> - all on a single scalable platform
-          (Harshera)
+          (CourseCraft)
         </Typography>
         <Stack spacing={2} direction="row" style={{ marginTop: 30 }}>
           <BootstrapButton
