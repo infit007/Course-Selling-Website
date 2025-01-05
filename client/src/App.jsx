@@ -13,7 +13,9 @@ import Home from "./Components/Home";
 import { userState } from "./store/atoms/user";
 import { useSetRecoilState } from "recoil";
 import Loading from "./Components/Loading";
-const client = axios.create({ baseURL: "http://localhost:3000" });
+const client = axios.create({
+  baseURL: "https://course-selling-website-7f2e.onrender.com/",
+});
 
 export const UserContext = createContext(null);
 
