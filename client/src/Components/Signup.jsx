@@ -36,7 +36,7 @@ export default function Signup({ client }) {
     >
       <div style={{ paddingTop: 100, marginBottom: 10 }}>
         <Typography variant="h6">
-          Welcome to Harshera, signUp to proceed
+          Welcome to CourseCraft, signUp to proceed
         </Typography>
       </div>
       <Card variant="outlined" style={{ width: 500, padding: 20 }}>
