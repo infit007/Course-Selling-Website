@@ -21,3 +21,4 @@ By the end of this you should have two frontends -
 
 ### ssh-keyscan ec2-3-84-137-90.compute-1.amazonaws.com >> known_hosts
 testing
+
